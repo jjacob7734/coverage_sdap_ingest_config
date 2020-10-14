@@ -13,3 +13,4 @@ collections:
     slices:
       lat: 30
       lon: 30
+      time: 1
