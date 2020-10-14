@@ -1,6 +1,6 @@
 collections:
   - id: METOFFICE-GLO-SST-L4-NRT-OBS-GMPE-V2_analysed_sst
-    path: /container/history/METOFFICE-GLO-SST-L4-NRT-OBS-GMPE-V2/*.nc
+    path: /data/METOFFICE-GLO-SST-L4-NRT-OBS-GMPE-V2/*.nc
     variable: analysed_sst
     priority: 1
     forward-processing-priority: 5
